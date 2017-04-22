@@ -27,6 +27,10 @@ ModelImporter:
     100038: Plane_3
     100040: Plane_4
     100042: Plane_5
+    100044: Plane_1_1
+    100046: Plane_1_2
+    100048: Plane_1_3
+    100050: Plane_1_4
     400000: //RootNode
     400002: Apartment
     400004: CINEMA_4D_Editor
@@ -49,6 +53,10 @@ ModelImporter:
     400038: Plane_3
     400040: Plane_4
     400042: Plane_5
+    400044: Plane_1_1
+    400046: Plane_1_2
+    400048: Plane_1_3
+    400050: Plane_1_4
     2300000: Cube_1
     2300002: Cube_3
     2300004: Cube_9
@@ -67,6 +75,10 @@ ModelImporter:
     2300030: Plane_3
     2300032: Plane_4
     2300034: Plane_5
+    2300036: Plane_1_1
+    2300038: Plane_1_2
+    2300040: Plane_1_3
+    2300042: Plane_1_4
     3300000: Cube_1
     3300002: Cube_3
     3300004: Cube_9
@@ -85,6 +97,10 @@ ModelImporter:
     3300030: Plane_3
     3300032: Plane_4
     3300034: Plane_5
+    3300036: Plane_1_1
+    3300038: Plane_1_2
+    3300040: Plane_1_3
+    3300042: Plane_1_4
     4300000: Cylinder_10
     4300002: Cylinder_9
     4300004: Cylinder_8
@@ -103,6 +119,10 @@ ModelImporter:
     4300030: Plane
     4300032: Plane_1
     4300034: Floor
+    4300036: Plane_1_1
+    4300038: Plane_1_2
+    4300040: Plane_1_3
+    4300042: Plane_1_4
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -135,7 +155,7 @@ ModelImporter:
     addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
