@@ -16,9 +16,18 @@ public class timer : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		myTimer -= Time.deltaTime;
-		timerText.text = myTimer.ToString ("f2");
-		print (myTimer);
+		float blah = myTimer;
+		if (blah >= 0.0) {
+			myTimer -= Time.deltaTime;
+			timerText.text = myTimer.ToString ("f2");
+
+
+			//gameObject.GetComponent<Text> ().text;
+			//print (myTimer);
+			//print (blah);
+		} else {
+			timerText.text = ("done ..");
+		}
 	
 	}
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ScoreManager : MonoBehaviour {
 	
 	public float points = 10;
@@ -44,5 +45,4 @@ public class ScoreManager : MonoBehaviour {
 
 		//this.hit.collider.GetComponent<pickItem> ().isPicked = true;
 	}
-
 }
