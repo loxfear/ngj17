@@ -5,23 +5,24 @@ public class pickItem : MonoBehaviour
 {	
 	//private bool isFarvet;
 	public bool isPicked = false;
-			
+	public Color myColer;
+
+
 
 	void OnMouseDown()
 	{
-		if (gameObject.GetComponent<Renderer>().material.color != Color.green) {
-			gameObject.GetComponent<Renderer> ().material.color = Color.green;
+
+		if (isPicked == false) {
+			
+			myColer.b = 0.1f;
+			myColer.g = 1f;
+			myColer.a = 0.1f;
+			gameObject.GetComponent<Renderer> ().material.SetColor ("_TintColor", myColer);
 
 			print ("farvede object");
-			isPicked = true;
+		} 
 
-		} else {
-			print ("allerede farvet");
-			isPicked = false;
-		}
-
+		//isPicked = true;
 	}
-
-
 }
 	
