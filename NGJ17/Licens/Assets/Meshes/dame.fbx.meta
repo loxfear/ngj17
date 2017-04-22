@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: e4a1695595909e141bbed81ef9a87c7d
+timeCreated: 1492885262
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube_6
+    100002: Cylinder
+    100004: Cylinder_2
+    100006: //RootNode
+    100008: Disc
+    100010: hair
+    100012: left_arm
+    100014: Polygon
+    100016: Polygon_2
+    100018: Polygon_3
+    100020: Polygon_3_2
+    100022: Right_arm
+    100024: Shoe
+    100026: Shoe_2
+    100028: Shoe_3
+    400000: Cube_6
+    400002: Cylinder
+    400004: Cylinder_2
+    400006: //RootNode
+    400008: Disc
+    400010: hair
+    400012: left_arm
+    400014: Polygon
+    400016: Polygon_2
+    400018: Polygon_3
+    400020: Polygon_3_2
+    400022: Right_arm
+    400024: Shoe
+    400026: Shoe_2
+    400028: Shoe_3
+    2300000: Cube_6
+    2300002: Cylinder
+    2300004: Cylinder_2
+    2300006: Disc
+    2300008: hair
+    2300010: left_arm
+    2300012: Polygon
+    2300014: Polygon_2
+    2300016: Polygon_3
+    2300018: Polygon_3_2
+    2300020: Right_arm
+    2300022: Shoe
+    2300024: Shoe_2
+    2300026: Shoe_3
+    3300000: Cube_6
+    3300002: Cylinder
+    3300004: Cylinder_2
+    3300006: Disc
+    3300008: hair
+    3300010: left_arm
+    3300012: Polygon
+    3300014: Polygon_2
+    3300016: Polygon_3
+    3300018: Polygon_3_2
+    3300020: Right_arm
+    3300022: Shoe
+    3300024: Shoe_2
+    3300026: Shoe_3
+    4300000: left_arm
+    4300002: Right_arm
+    4300004: Cube_6
+    4300006: Polygon
+    4300008: Polygon_2
+    4300010: hair
+    4300012: Shoe
+    4300014: Shoe_2
+    4300016: Shoe_3
+    4300018: Polygon_3
+    4300020: Polygon_3_2
+    4300022: Disc
+    4300024: Cylinder
+    4300026: Cylinder_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
