@@ -56,6 +56,9 @@ ModelImporter:
     100096: Sphere_4_2
     100098: Sphere_5
     100100: Walls
+    100102: Cube_1_3
+    100104: Cube_1_4
+    100106: Cube_9_2
     400000: //RootNode
     400002: Apartment
     400004: CINEMA_4D_Editor
@@ -107,6 +110,9 @@ ModelImporter:
     400096: Sphere_4_2
     400098: Sphere_5
     400100: Walls
+    400102: Cube_1_3
+    400104: Cube_1_4
+    400106: Cube_9_2
     2300000: Cube_1
     2300002: Cube_3
     2300004: Cube_9
@@ -154,6 +160,9 @@ ModelImporter:
     2300088: Sphere_4_2
     2300090: Sphere_5
     2300092: Walls
+    2300094: Cube_1_3
+    2300096: Cube_1_4
+    2300098: Cube_9_2
     3300000: Cube_1
     3300002: Cube_3
     3300004: Cube_9
@@ -201,6 +210,9 @@ ModelImporter:
     3300088: Sphere_4_2
     3300090: Sphere_5
     3300092: Walls
+    3300094: Cube_1_3
+    3300096: Cube_1_4
+    3300098: Cube_9_2
     4300000: Cylinder_10
     4300002: Cylinder_9
     4300004: Cylinder_8
@@ -248,6 +260,9 @@ ModelImporter:
     4300088: Plane_1_6
     4300090: Cylinder_2_3
     4300092: Cube_1_2
+    4300094: Cube_9_2
+    4300096: Cube_1_3
+    4300098: Cube_1_4
     9500000: //RootNode
   materials:
     importMaterials: 1
