@@ -1,37 +1,62 @@
 fileFormatVersion: 2
-guid: 97f4d6c76dbd15a47b0c5f5fe958ed7d
-timeCreated: 1492896040
+guid: e474e0b1640e00b4ba210f7619ebf514
+timeCreated: 1492932924
 licenseType: Pro
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: Cube
-    100002: Cube_2
-    100004: Cylinder
-    100006: Cylinder_1
-    100008: //RootNode
-    100010: Sphere
+    100002: Cube_1
+    100004: //RootNode
+    100006: Polygon
+    100008: Polygon_1
+    100010: Polygon_1_2
+    100012: Polygon_2
+    100014: Polygon_2_2
+    100016: Polygon_2_3
+    100018: Polygon_3
+    100020: Polygon_3_2
     400000: Cube
-    400002: Cube_2
-    400004: Cylinder
-    400006: Cylinder_1
-    400008: //RootNode
-    400010: Sphere
+    400002: Cube_1
+    400004: //RootNode
+    400006: Polygon
+    400008: Polygon_1
+    400010: Polygon_1_2
+    400012: Polygon_2
+    400014: Polygon_2_2
+    400016: Polygon_2_3
+    400018: Polygon_3
+    400020: Polygon_3_2
     2300000: Cube
-    2300002: Cube_2
-    2300004: Cylinder
-    2300006: Cylinder_1
-    2300008: Sphere
+    2300002: Cube_1
+    2300004: Polygon
+    2300006: Polygon_1
+    2300008: Polygon_1_2
+    2300010: Polygon_2
+    2300012: Polygon_2_2
+    2300014: Polygon_2_3
+    2300016: Polygon_3
+    2300018: Polygon_3_2
     3300000: Cube
-    3300002: Cube_2
-    3300004: Cylinder
-    3300006: Cylinder_1
-    3300008: Sphere
-    4300000: Cylinder_1
-    4300002: Cylinder
-    4300004: Sphere
-    4300006: Cube
-    4300008: Cube_2
+    3300002: Cube_1
+    3300004: Polygon
+    3300006: Polygon_1
+    3300008: Polygon_1_2
+    3300010: Polygon_2
+    3300012: Polygon_2_2
+    3300014: Polygon_2_3
+    3300016: Polygon_3
+    3300018: Polygon_3_2
+    4300000: Cube_1
+    4300002: Polygon_3
+    4300004: Polygon_3_2
+    4300006: Polygon_2
+    4300008: Polygon_2_2
+    4300010: Polygon_1
+    4300012: Polygon_1_2
+    4300014: Polygon
+    4300016: Polygon_2_3
+    4300018: Cube
   materials:
     importMaterials: 1
     materialName: 0
