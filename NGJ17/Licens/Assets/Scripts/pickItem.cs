@@ -24,7 +24,7 @@ public class pickItem : MonoBehaviour
 			if (timerText2.tag == "scoreDims") {
 				//hit.collider.GetComponent<pickItem> ().isPicked = true;
 
-				timerText2.GetComponent<timer>().myTimer = timerText2.GetComponent<timer>().myTimer + 5;
+				timerText2.GetComponent<timer>().myTimer = timerText2.GetComponent<timer>().myTimer + 3;
 				//print ("scoreDims");
 			}
 

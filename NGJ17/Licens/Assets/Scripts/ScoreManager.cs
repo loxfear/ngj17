@@ -6,7 +6,8 @@ using UnityEngine;
 public class ScoreManager : MonoBehaviour {
 	
 	public float points = 10;
-	private float score;
+	public float score;
+
 	public GameObject itemOBJ;
 
 
@@ -36,7 +37,7 @@ public class ScoreManager : MonoBehaviour {
 		}
 	}
 
-	void OnGUI() {
+	public void OnGUI() {
 		GUILayout.Label("Score: " + score.ToString("0"));
 	}
 

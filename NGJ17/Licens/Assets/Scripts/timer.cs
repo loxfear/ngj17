@@ -26,7 +26,9 @@ public class timer : MonoBehaviour {
 			//print (myTimer);
 			//print (blah);
 		} else {
-			timerText.text = ("done ..");
+			//timerText.text = ("done ..");
+			Application.LoadLevel("end_screen");
+		
 		}
 	
 	}
