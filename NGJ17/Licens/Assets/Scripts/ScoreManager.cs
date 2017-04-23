@@ -38,7 +38,12 @@ public class ScoreManager : MonoBehaviour {
 	}
 
 	public void OnGUI() {
-		GUILayout.Label("Score: " + score.ToString("0"));
+		//GUI.contentColor = Color.white;
+		GUIStyle myStyle = new GUIStyle(GUI.skin.GetStyle("label"));
+		myStyle.fontSize = 35;
+
+		GUI.Label(new Rect (70, 20, 100, 100),score.ToString("0"), myStyle);
+		//GUILayout.Label("Score: " + score.ToString("0"));
 	}
 
 	void AddPoints(float points) {
